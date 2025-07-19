@@ -8,7 +8,7 @@
 - **Lớp:** DT23TTC10
 - **Mã repo:** ASPNET-dt23ttc10-danhquocviet-chitieucanhan
 - **Email:** vietdq150890@sv-onuni.edu.vn 
-- **Giảng viên hướng dẫn:** antonio86doan@gmail.com
+- **Giảng viên hướng dẫn:** Đoàn Phước Miền
 
 ---
 
