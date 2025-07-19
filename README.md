@@ -60,7 +60,7 @@ ASPNET-dt23ttc10-danhquocviet-chitieucanhan/
 
 1. **Clone project về máy:**
    ```bash
-   git clone https://github.com/[your-username]/ASPNET-dt23ttc10-danhquocviet-chitieucanhan.git
+   git clone https://github.com/ggviet/ASPNET-dt23ttc10-danhquocviet-chitieucanhan.git
    ```
 
 2. **Khởi tạo database:**
