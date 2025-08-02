@@ -88,4 +88,3 @@ ASPNET-dt23ttc10-danhquocviet-chitieucanhan/
 ## 📬 Liên hệ
 Nếu cần hỗ trợ hoặc góp ý xin vui lòng liên hệ:
 - 📧 Email: vietdq150890@sv-onuni.edu.vn
-- ☎️ Phone: 0367 404 568
